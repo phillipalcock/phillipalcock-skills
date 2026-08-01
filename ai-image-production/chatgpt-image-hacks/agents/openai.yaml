@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT Image Hacks"
+  short_description: "Advanced gpt-image-2 prompting patterns"
+  default_prompt: "Help me improve a ChatGPT image prompt using production-grade hacks."
