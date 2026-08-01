@@ -1,0 +1,4 @@
+interface:
+  display_name: "Escape Room Designer"
+  short_description: "Curriculum-aligned classroom escape rooms"
+  default_prompt: "Design a classroom escape room aligned to my learning goals."
