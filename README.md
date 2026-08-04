@@ -8,10 +8,14 @@ I write about AI workflows, creative tooling, and practical automation on my Sub
 
 | Skill | Category | Status |
 | --- | --- | --- |
-| [Google Flow](./ai-music-production/google-flow) | AI Music Production | Active |
 | [ChatGPT Image Hacks](./ai-image-production/chatgpt-image-hacks) | AI Image Production | Active |
+| [Image Prompt Generator](./ai-image-production/image-prompt-generator) | AI Image Production | Active |
+| [Google Flow](./ai-music-production/google-flow) | AI Music Production | Active |
+| [Song Brief Builder](./ai-music-production/song-brief-builder) | AI Music Production | Active |
 | [Escape Room Designer](./instructional-design/escape-room-designer) | Instructional Design | Active |
+| [Worksheet Designer](./instructional-design/worksheet-designer) | Instructional Design | Active |
 | [Critique Yourself](./workflow-improvement/critique-yourself) | Workflow Improvement | Active |
+| [Project Retrospective](./workflow-improvement/project-retrospective) | Workflow Improvement | Active |
 
 ## About
 
