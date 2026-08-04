@@ -1,5 +1,7 @@
 # skills-collection
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A working library of Claude skills for AI-driven creative and content workflows, built and maintained by Phillip Alcock.
 
 I write about AI workflows, creative tooling, and practical automation on my Substack: [phillipalcock.substack.com](https://phillipalcock.substack.com). This repo is the hands-on companion: real, working Claude skills I use and iterate on for AI image production, music production, instructional design, and workflow improvement.
